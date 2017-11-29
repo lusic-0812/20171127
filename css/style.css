@@ -134,7 +134,7 @@ a.boxed-option-items { color: #000; }
 @media (max-width: 769px) { .boxed-option-item { margin: 50px auto; } }
 html, body { width: 100%; min-height: 100%; height: 100%; margin: 0; font-family: "Open Sans", "Microsoft JhengHei"; background: #fff; font-size: 14px; color: #898a8a; background: url(../images/r.png) no-repeat right bottom; background-size: 20% auto; background-attachment: fixed; }
 
-.warpBOX { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; min-height: 100%; background-image: url(../images/l.png), url(../images/line.png); background-repeat: no-repeat, no-repeat; background-position: left 22%, 50% 50%; background-size: auto 25%, cover; overflow: hidden; }
+.warpBOX { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; min-height: 100%; background-image: url(../images/l.png), url(../images/line.png); background-repeat: no-repeat, no-repeat; background-position: left 22%, 50% 50%; background-size: auto 35%, cover; overflow: hidden; }
 
 footer { right: -100px; top: 50%; font-size: 12px; z-index: 100; position: fixed; -moz-transform: rotate(-90deg); -ms-transform: rotate(-90deg); -webkit-transform: rotate(-90deg); transform: rotate(-90deg); }
 
